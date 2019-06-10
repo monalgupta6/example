@@ -5,7 +5,7 @@ if($d == "Fri"){
 } elseif($d == "Sun"){
     echo "Have a nice Sunday!";
 } else{
-    echo "Its a rainy day!";
+    echo "It's a sunny day!";
 }
 
 ?>
